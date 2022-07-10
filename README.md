@@ -12,12 +12,12 @@
 
 👨‍🎓 Master's Degree of Applied Science
 
-## Short History
+## Work Experience
 
 &emsp;...
 
-- Core Backend Engineer & Devops at <a href="https://github.com/motorvate">Motorvate</a>
+- Web Developer at <a href="https://www.jfsys.com">JF computer systems Co. Ltd</a>
 
-- Super Smart Contract | Web3 Engineer at <a href="https://github.com/doejo">Doejo</a>
+- Front End Engineer at <a href="https://questglt.com">Quest Global Technologies</a>
 
-- Full-Stack Developer at <a href="https://bitbucket.org/netcorelabs">Nfinity</a>
+- Freelancer at <a href="https://upwork.com">Upwork</a>
