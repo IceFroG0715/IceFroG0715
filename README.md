@@ -1,4 +1,4 @@
-<h1 align="center">👋 Senior Front End Engineer</h1>
+<h1 align="center">👋 Senior Blockchain Engineer</h1>
 
 ## About
 
@@ -16,8 +16,8 @@
 
 &emsp;...
 
-- Web Developer at <a href="https://www.jfsys.com">JF computer systems Co. Ltd</a>
+- Blockchain Developer at <a href="https://www.jfsys.com">JF computer systems Co. Ltd</a>
 
-- Front End Engineer at <a href="https://questglt.com">Quest Global Technologies</a>
+- BackEnd Engineer at <a href="https://questglt.com">Quest Global Technologies</a>
 
-- Freelancer at <a href="https://upwork.com">Upwork</a>
+- CTO at <a href="https://upwork.com">Upwork</a>
